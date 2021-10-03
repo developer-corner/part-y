@@ -1,4 +1,5 @@
-# part-y
+part-y
+======
 
 Partitioning and format utility for Linux and MS Windows
 --------------------------------------------------------
